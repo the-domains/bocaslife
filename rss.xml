@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Living the dream of island life]]></title>
         <description><![CDATA[Living the dream of island life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bocaslife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 23:16:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 23:32:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bocaslife/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zapatillas]]></title>
+            <description><![CDATA[<article><h1>Zapatillas</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b067154b71a8fcf64633861d523fb43fffc79d9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bocaslife/0e33ed9c-4c78-49d5-9cbe-5b1b83c4aa15/index.html</link>
+            <guid isPermaLink="false">0e33ed9c-4c78-49d5-9cbe-5b1b83c4aa15</guid>
+            <pubDate>Sun, 14 Feb 2016 23:31:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined324a31a9-7a44-454e-b002-b247e6e8d83d/index.html</link>
+            <description><![CDATA[<p>It doesn't take long after setting foot in Bocas Del Toro to understand this is the kind of place you never want to leave. </p>]]></description>
+            <link>https://thegrid.ai/bocaslife/324a31a9-7a44-454e-b002-b247e6e8d83d/index.html</link>
             <guid isPermaLink="false">324a31a9-7a44-454e-b002-b247e6e8d83d</guid>
             <pubDate>Sun, 14 Feb 2016 23:16:09 GMT</pubDate>
         </item>
