@@ -2,21 +2,28 @@
     <channel>
         <title><![CDATA[Living the dream of island life]]></title>
         <description><![CDATA[Living the dream of island life]]></description>
-        <link>https://thegrid.ai/bocaslife/</link>
+        <link>http://www.bocaslife.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 23:32:06 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/bocaslife/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 14:01:31 GMT</lastBuildDate>
+        <atom:link href="http://www.bocaslife.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zapatillas ]]></title>
+            <description><![CDATA[<article><h1>Zapatillas </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cabbd0a97104b0b5087c204bc61ab4a26b3b8f16.jpg"></article>]]></description>
+            <link>http://www.bocaslife.com/5c9a990b-0635-41a6-b592-0a98695aadf1/index.html</link>
+            <guid isPermaLink="false">5c9a990b-0635-41a6-b592-0a98695aadf1</guid>
+            <pubDate>Tue, 16 Feb 2016 14:01:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zapatillas]]></title>
-            <description><![CDATA[<article><h1>Zapatillas</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b067154b71a8fcf64633861d523fb43fffc79d9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/bocaslife/0e33ed9c-4c78-49d5-9cbe-5b1b83c4aa15/index.html</link>
+            <description><![CDATA[<article><h1>Zapatillas</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53a40efc4f4dd7538e51ebfbdf59ee7e12cc92f9.jpg"></article>]]></description>
+            <link>http://www.bocaslife.com/0e33ed9c-4c78-49d5-9cbe-5b1b83c4aa15/index.html</link>
             <guid isPermaLink="false">0e33ed9c-4c78-49d5-9cbe-5b1b83c4aa15</guid>
             <pubDate>Sun, 14 Feb 2016 23:31:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>It doesn't take long after setting foot in Bocas Del Toro to understand this is the kind of place you never want to leave. </p>]]></description>
-            <link>https://thegrid.ai/bocaslife/324a31a9-7a44-454e-b002-b247e6e8d83d/index.html</link>
+            <link>http://www.bocaslife.com/324a31a9-7a44-454e-b002-b247e6e8d83d/index.html</link>
             <guid isPermaLink="false">324a31a9-7a44-454e-b002-b247e6e8d83d</guid>
             <pubDate>Sun, 14 Feb 2016 23:16:09 GMT</pubDate>
         </item>
